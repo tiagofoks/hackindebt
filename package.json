@@ -1,0 +1,40 @@
+{
+  "name": "debit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "angular": "^1.6.6",
+    "body-parser": "^1.18.2",
+    "bootstrap": "^3.3.7",
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "http": "0.0.0",
+    "i": "^0.3.5",
+    "jquery": "^3.2.1",
+    "mysql": "^2.14.1",
+    "nodemon": "^1.12.1",
+    "php": "0.0.1",
+    "socket-io-server": "^1.0.5",
+    "socket.io": "^2.0.3",
+    "socket.io-client": "^2.0.3",
+    "validator": "^9.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tiagofoks/hackindebt.git"
+  },
+  "keywords": [
+    "debt"
+  ],
+  "author": "Tiago Selpuveda, Karen Fujimoto, Ricki Sahara, Willian Augusto Ferreira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tiagofoks/hackindebt/issues"
+  },
+  "homepage": "https://github.com/tiagofoks/hackindebt#readme"
+}
